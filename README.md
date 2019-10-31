@@ -6,4 +6,4 @@
 
 有熟悉抓包的小伙伴可以增加json文件里面的口红数据,方便的话也给我邮件一份....
 
-![image](https://github.com/songguolin/lipstick/blob/master/IMG_0881.PNG)
+![image](https://github.com/songguolin/lipstick/blob/master/IMG_0881.PNG);
